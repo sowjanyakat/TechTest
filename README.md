@@ -1,11 +1,15 @@
 # TechTest
 **What tools used in this Test**
-TypeScript
+
+
+"TypeScript
 SeleniumWebDriver with chrome driver
 Cucumber
-vscode IDE
+vscode IDE"
+
+
 I followed Page Object Model Pattern.
 
 **How To Run**
-use command  npm run test
+use command   "npm run test"
 
